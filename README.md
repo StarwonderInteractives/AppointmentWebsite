@@ -21,4 +21,4 @@ A simple and modern appointment booking website that allows users to directly me
 ---
 
 ## 🌐 Check it out
-🔗 [View Website](https://starwonderinteractives.github.io/Snehansh-Appointment-Website/)  
+🔗 [View Website](https://k1ngp1nh4s4n.github.io/Snehansh-Appointment-Website/)  
